@@ -1,4 +1,4 @@
-# eLearn-Clickable-Links
+# eLearn Google Calendar links
 
 This userscript changes the due-dates on elearn assignment pages into "add to google calendar" links.
 
